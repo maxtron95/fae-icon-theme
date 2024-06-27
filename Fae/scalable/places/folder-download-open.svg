@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="folder-download-open.svg">
+  <defs
+     id="defs815" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="14.303596"
+     inkscape:cx="0.8904455"
+     inkscape:cy="20.853793"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1371" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#e9bf73;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 6 6 C 4.892 6 4.0231407 6.8922417 4 8 L 4 10 L 4 16 C 2.892 16 2 16.892 2 18 L 2 40 C 2 41.108 2.892 42 4 42 L 44 42 C 45.108 42 46 41.108 46 40 L 46 18 C 46 16.892 45.108 16 44 16 L 44 10 C 44 8.892 43.108 8 42 8 L 18 8 C 18 6.892 17.108 6 16 6 L 6 6 z "
+       id="rect823-4-4" />
+    <path
+       style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 6 6 C 4.892 6 4.023141 6.8922417 4 8 L 4 10 L 4 16 L 44 16 L 44 10 C 44 8.892 43.108 8 42 8 L 18 8 C 18 6.892 17.108 6 16 6 L 6 6 z "
+       id="rect823-4-4-3" />
+    <path
+       style="opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 6 12 C 4.892 12 4 12.892 4 14 L 4 16 L 44 16 L 44 14 C 44 12.892 43.108 12 42 12 L 6 12 z "
+       id="rect835" />
+    <path
+       style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 6 6 C 4.892 6 4 6.892 4 8 L 4 10 L 4 16 L 5 16 L 5 10 L 5 8 C 5 7.446 5.446 7 6 7 L 16 7 C 16.554 7 17 7.446 17 8 L 17 9 L 42 9 C 42.554 9 43 9.446 43 10 L 43 16 L 44 16 L 44 10 C 44 8.892 43.108 8 42 8 L 18 8 C 18 6.892 17.108 6 16 6 L 6 6 z "
+       id="rect823-4" />
+    <path
+       style="opacity:0.4;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 4 16 C 2.892 16 2 16.892 2 18 L 2 40 C 2 41.108 2.892 42 4 42 L 44 42 C 45.108 42 46 41.108 46 40 L 46 18 C 46 16.892 45.108 16 44 16 L 4 16 z M 4 17 L 44 17 C 44.554 17 45 17.446 45 18 L 45 40 C 45 40.554 44.554 41 44 41 L 4 41 C 3.446 41 3 40.554 3 40 L 3 18 C 3 17.446 3.446 17 4 17 z "
+       id="rect837" />
+    <path
+       style="opacity:0.3;fill:#000000;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20,20 v 2 h 8 v -2 z m 0,4 v 5 h -4 l 8,9 8,-9 h -4 v -5 z"
+       id="path850"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc" />
+  </g>
+</svg>

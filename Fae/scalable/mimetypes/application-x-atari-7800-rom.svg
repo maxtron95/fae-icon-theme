@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="application-x-atari-7800-rom.svg">
+  <defs
+     id="defs815" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="39.18151"
+     inkscape:cx="18.779483"
+     inkscape:cy="35.999512"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1371" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#4e4e4e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect820"
+       width="36"
+       height="44"
+       x="6"
+       y="2"
+       ry="2" />
+    <path
+       style="opacity:0.4;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 8 2 C 6.892 2 6 2.892 6 4 L 6 44 C 6 45.108 6.892 46 8 46 L 40 46 C 41.108 46 42 45.108 42 44 L 42 4 C 42 2.892 41.108 2 40 2 L 8 2 z M 8 3 L 40 3 C 40.554 3 41 3.446 41 4 L 41 44 C 41 44.554 40.554 45 40 45 L 8 45 C 7.446 45 7 44.554 7 44 L 7 4 C 7 3.446 7.446 3 8 3 z "
+       id="rect815" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#efefef;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+       id="rect816"
+       width="28"
+       height="36"
+       x="10"
+       y="6"
+       ry="2" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#4e4e4e;fill-opacity:1;fill-rule:evenodd;paint-order:normal"
+       id="rect818"
+       width="16"
+       height="20"
+       x="16"
+       y="14"
+       ry="1" />
+    <path
+       style="fill:#ffcd4b;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 35,8 c 1,0 1,1 1,1 v 7 L 28,8 c 0,0 4.666667,0 7,0 z"
+       id="path820"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccs" />
+    <path
+       style="fill:#4e4e4e;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 12,13 v -1 c 0,0 2,0 2,-1.5 V 8 h 1 v 2.5 C 15,13 13,13 13,13 Z"
+       id="path912"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccscc" />
+    <path
+       style="fill:#4e4e4e;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 21,13 v -1 c 0,0 -2,0 -2,-1.5 V 8 h -1 v 2.5 c 0,2.5 2,2.5 2,2.5 z"
+       id="path912-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccsccscc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#4e4e4e;fill-opacity:1;fill-rule:evenodd;stroke:none;paint-order:normal"
+       id="rect929"
+       width="1"
+       height="5"
+       x="16"
+       y="8" />
+    <path
+       style="fill:#f97263;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 23,13 25,9 H 23 V 8 h 3 v 1 l -2,4 z"
+       id="path931"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccc" />
+  </g>
+</svg>

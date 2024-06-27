@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="spookys-jumpscare-mansion.svg">
+  <defs
+     id="defs815">
+    <linearGradient
+       gradientTransform="matrix(0.9965784,0,0,0.9962666,-89.841948,-62.996045)"
+       id="IcecapTip-6"
+       xlink:href="#WhiteTransparent-4"
+       x1="60"
+       y1="20"
+       x2="90"
+       y2="50"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       id="WhiteTransparent-4"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         style="stop-color:white;stop-opacity:1"
+         offset="0"
+         id="stop7606-4" />
+      <stop
+         style="stop-color:white;stop-opacity:0"
+         offset="1"
+         id="stop7608-7" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="19.279538"
+     inkscape:cx="44.566573"
+     inkscape:cy="21.384867"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1371" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7eb8f4;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect1373"
+       width="40"
+       height="40"
+       x="4"
+       y="4"
+       ry="4" />
+    <path
+       style="fill:#4575c5;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 9 19 L 6.0625 43.482422 C 6.6380346 43.802273 7.292316 44 8 44 L 40 44 C 40.706121 44 41.358942 43.802912 41.933594 43.484375 L 39 21 L 9 19 z "
+       id="path890" />
+    <path
+       style="fill:#85dce0;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="M 20 40 C 20 40 16 40 13 42 C 11.823303 42.784465 12 44 12 44 L 24 44 L 36 44 C 36 44 36.176697 42.784465 35 42 C 32 40 28 40 28 40 L 24 40 L 20 40 z "
+       id="path839" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e1f8f5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect834"
+       width="8"
+       height="8"
+       x="20"
+       y="34"
+       ry="2"
+       rx="4" />
+    <path
+       style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 8 4 C 5.784 4 4 5.784 4 8 L 4 40 C 4 42.216 5.784 44 8 44 L 40 44 C 42.216 44 44 42.216 44 40 L 44 8 C 44 5.784 42.216 4 40 4 L 8 4 z M 8 5 L 40 5 C 41.662 5 43 6.338 43 8 L 43 40 C 43 41.662 41.662 43 40 43 L 8 43 C 6.338 43 5 41.662 5 40 L 5 8 C 5 6.338 6.338 5 8 5 z "
+       id="rect826" />
+    <path
+       style="opacity:0.25;vector-effect:none;fill:#0046c3;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 24 34 C 21.784 34 20 34.892 20 36 L 20 39.417969 C 21.26737 39.792948 22.607836 40 24 40 C 25.392164 40 26.73263 39.792948 28 39.417969 L 28 36 C 28 34.892 26.216 34 24 34 z "
+       id="rect832-8" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#e1f8f5;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect832"
+       width="28"
+       height="28"
+       x="10"
+       y="10"
+       ry="14" />
+    <path
+       style="fill:#4e4e4e;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 20,30 c 0,0 0,4 4,4 4,0 4,-4 4,-4 z"
+       id="path817"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#4e4e4e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect820"
+       width="5"
+       height="8"
+       x="15"
+       y="20"
+       ry="4"
+       rx="2.5" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#4e4e4e;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect827"
+       width="5"
+       height="8"
+       x="28"
+       y="20"
+       rx="2.5"
+       ry="4" />
+    <path
+       style="fill:#7eb8f4;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;fill-opacity:1"
+       d="m 9,18 c 0,0 0,4 1,7 3,-6 8,-8 8,-8 0,0 2,7 7,8 0,-5 4,-8 4,-8 0,0 6,4 8,15 2,-2 2,-9 2,-9 C 39,23 41,8 23,8 9,8 9,18 9,18 Z"
+       id="path888"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccsc" />
+  </g>
+</svg>

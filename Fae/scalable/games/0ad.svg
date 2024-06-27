@@ -1,0 +1,10 @@
+<svg id="SVGRoot" width="48px" height="48px" version="1.1" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+ <g fill-rule="evenodd">
+  <rect x="4" y="4" width="40" height="40" ry="4" fill="#e5b871" style="paint-order:stroke fill markers"/>
+  <path d="m8 4c-2.216 0-4 1.784-4 4v32c0 2.216 1.784 4 4 4h32c2.216 0 4-1.784 4-4v-32c0-2.216-1.784-4-4-4h-32zm0 1h32c1.662 0 3 1.338 3 3v32c0 1.662-1.338 3-3 3h-32c-1.662 0-3-1.338-3-3v-32c0-1.662 1.338-3 3-3z" opacity=".25" style="paint-order:stroke fill markers"/>
+  <rect x="10" y="10" width="28" height="28" ry="14" fill="#fff" style="paint-order:stroke fill markers"/>
+  <rect x="14" y="14" width="20" height="20" ry="10" fill="#e5b871" style="paint-order:stroke fill markers"/>
+  <rect x="12" y="22" width="24" height="4" fill="#fff" style="paint-order:stroke fill markers"/>
+  <rect x="22" y="12" width="4" height="23" fill="#fff" style="paint-order:stroke fill markers"/>
+ </g>
+</svg>

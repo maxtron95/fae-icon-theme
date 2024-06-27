@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="drive-harddisk-system.svg">
+  <defs
+     id="defs815" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28.152743"
+     inkscape:cx="25.288126"
+     inkscape:cy="28.321789"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     inkscape:snap-global="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1371" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#b7bfc2;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect820"
+       width="36"
+       height="44"
+       x="6"
+       y="2"
+       ry="2" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#efefef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect820-3"
+       width="36"
+       height="38"
+       x="6"
+       y="2"
+       ry="2" />
+    <path
+       style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 8 2 C 6.892 2 6 2.892 6 4 L 6 44 C 6 45.108 6.892 46 8 46 L 40 46 C 41.108 46 42 45.108 42 44 L 42 4 C 42 2.892 41.108 2 40 2 L 8 2 z M 8 3 L 40 3 C 40.554 3 41 3.446 41 4 L 41 44 C 41 44.554 40.554 45 40 45 L 8 45 C 7.446 45 7 44.554 7 44 L 7 4 C 7 3.446 7.446 3 8 3 z "
+       id="rect815" />
+    <rect
+       style="opacity:0.35;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect849"
+       width="6"
+       height="6"
+       x="12"
+       y="30"
+       ry="3" />
+    <path
+       style="opacity:0.35;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 22 6 C 21.446 6 21 6.446 21 7 L 21 8.4550781 C 20.433656 8.6318143 19.892579 8.8613893 19.375 9.1308594 L 18.34375 8.0996094 C 17.952013 7.7078722 17.321425 7.7078722 16.929688 8.0996094 L 14.099609 10.929688 C 13.707872 11.321422 13.707872 11.952013 14.099609 12.34375 L 15.130859 13.375 C 14.861389 13.892579 14.631814 14.433656 14.455078 15 L 13 15 C 12.446 15 12 15.446 12 16 L 12 20 C 12 20.554 12.446 21 13 21 L 14.455078 21 C 14.631814 21.566344 14.861389 22.107421 15.130859 22.625 L 14.099609 23.65625 C 13.707872 24.047987 13.707872 24.678575 14.099609 25.070312 L 16.929688 27.900391 C 17.321425 28.292128 17.952013 28.292128 18.34375 27.900391 L 19.375 26.869141 C 19.892579 27.138611 20.433656 27.368186 21 27.544922 L 21 29 C 21 29.554 21.446 30 22 30 L 26 30 C 26.554 30 27 29.554 27 29 L 27 27.544922 C 27.566344 27.368186 28.107421 27.138611 28.625 26.869141 L 29.65625 27.900391 C 30.047987 28.292128 30.678575 28.292128 31.070312 27.900391 L 33.900391 25.070312 C 34.292128 24.678575 34.292128 24.047987 33.900391 23.65625 L 32.869141 22.625 C 33.138611 22.107421 33.368186 21.566344 33.544922 21 L 35 21 C 35.554 21 36 20.554 36 20 L 36 16 C 36 15.446 35.554 15 35 15 L 33.544922 15 C 33.368186 14.433656 33.138611 13.892579 32.869141 13.375 L 33.900391 12.34375 C 34.292128 11.952013 34.292128 11.321424 33.900391 10.929688 L 31.070312 8.0996094 C 30.678575 7.7078722 30.047987 7.7078722 29.65625 8.0996094 L 28.625 9.1308594 C 28.107421 8.8613893 27.566344 8.6318143 27 8.4550781 L 27 7 C 27 6.446 26.554 6 26 6 L 22 6 z M 24 14 C 26.216 14 28 15.784 28 18 C 28 20.216 26.216 22 24 22 C 21.784 22 20 20.216 20 18 C 20 15.784 21.784 14 24 14 z "
+       id="rect823-9" />
+  </g>
+</svg>

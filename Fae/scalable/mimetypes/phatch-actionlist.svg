@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="phatch-actionlist.svg">
+  <defs
+     id="defs815" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.8334651"
+     inkscape:cx="-10.804365"
+     inkscape:cy="24.09915"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="725"
+     inkscape:window-height="405"
+     inkscape:window-x="385"
+     inkscape:window-y="322"
+     inkscape:window-maximized="0"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1371" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:1;vector-effect:none;fill:#efefef;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       id="rect820"
+       width="36"
+       height="44"
+       x="6"
+       y="2"
+       ry="2" />
+    <path
+       style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 8 2 C 6.892 2 6 2.892 6 4 L 6 44 C 6 45.108 6.892 46 8 46 L 40 46 C 41.108 46 42 45.108 42 44 L 42 4 C 42 2.892 41.108 2 40 2 L 8 2 z M 8 3 L 40 3 C 40.554 3 41 3.446 41 4 L 41 44 C 41 44.554 40.554 45 40 45 L 8 45 C 7.446 45 7 44.554 7 44 L 7 4 C 7 3.446 7.446 3 8 3 z "
+       id="rect815" />
+    <path
+       style="fill:#7ebc53;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 22,16 c -10,0 -12,9 -12,9 0,0 5,7 12,7 12,0 16,-7 16,-7 0,0 -4,-9 -16,-9 z m -1,1 h 2 v 1.089844 c 0.913243,0.152282 1.754037,0.506013 2.476562,1.019531 l 0.765626,-0.765625 1.414062,1.414062 -0.765625,0.765626 C 27.404143,21.245963 27.757874,22.086757 27.910156,23 H 29 v 2 h -1.089844 c -0.152282,0.913243 -0.506013,1.754037 -1.019531,2.476562 l 0.765625,0.765626 -1.414062,1.414062 -0.765626,-0.765625 C 24.754037,29.404143 23.913243,29.757874 23,29.910156 V 31 H 21 V 29.910156 C 20.086757,29.757874 19.245963,29.404143 18.523438,28.890625 L 17.757812,29.65625 16.34375,28.242188 17.109375,27.476562 C 16.595857,26.754037 16.242126,25.913243 16.089844,25 H 15 v -2 h 1.089844 c 0.152282,-0.913243 0.506013,-1.754037 1.019531,-2.476562 l -0.765625,-0.765626 1.414062,-1.414062 0.765626,0.765625 C 19.245963,18.595857 20.086757,18.242126 21,18.089844 Z"
+       id="path855"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scscsccccccccccccccccccccccccccccccccc" />
+    <rect
+       style="opacity:1;vector-effect:none;fill:#7ebc53;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       id="rect905"
+       width="6"
+       height="6"
+       x="19"
+       y="21"
+       ry="3" />
+  </g>
+</svg>

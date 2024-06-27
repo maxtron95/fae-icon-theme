@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="48px"
+   height="48px"
+   viewBox="0 0 48 48"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="folder-music.svg">
+  <defs
+     id="defs815" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="20.22834"
+     inkscape:cx="22.886695"
+     inkscape:cy="19.527918"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1371" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata818">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="opacity:1;vector-effect:none;fill:#e9bf73;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 6 6 C 4.892 6 4.0231407 6.8922417 4 8 L 4 10 C 2.892 10 2 10.892 2 12 L 2 40 C 2 41.108 2.892 42 4 42 L 44 42 C 45.108 42 46 41.108 46 40 L 46 12 C 46 10.892 45.108 10 44 10 C 44 8.892 43.108 8 42 8 L 18 8 C 18 6.892 17.108 6 16 6 L 6 6 z "
+       id="rect823-4-4" />
+    <path
+       style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 6 6 C 4.892 6 4 6.892 4 8 L 4 10 L 5 10 L 5 8 C 5 7.446 5.446 7 6 7 L 16 7 C 16.554 7 17 7.446 17 8 L 17 9 L 42 9 C 42.554 9 43 9.446 43 10 L 44 10 C 44 8.892 43.108 8 42 8 L 18 8 C 18 6.892 17.108 6 16 6 L 6 6 z "
+       id="rect823-4" />
+    <path
+       style="opacity:0.4;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="M 4 10 C 2.892 10 2 10.892 2 12 L 2 40 C 2 41.108 2.892 42 4 42 L 44 42 C 45.108 42 46 41.108 46 40 L 46 12 C 46 10.892 45.108 10 44 10 L 4 10 z M 4 11 L 44 11 C 44.554 11 45 11.446 45 12 L 45 40 C 45 40.554 44.554 41 44 41 L 4 41 C 3.446 41 3 40.554 3 40 L 3 12 C 3 11.446 3.446 11 4 11 z "
+       id="rect834" />
+    <path
+       style="opacity:0.25;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 6,6 C 4.892,6 4.023141,6.8922417 4,8 v 2 c 3,0 39,0 40,0 C 44,8.892 43.108,8 42,8 H 18 C 18,6.892 17.108,6 16,6 Z"
+       id="rect823-4-4-3"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="scccscss" />
+    <path
+       style="opacity:0.3;vector-effect:none;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1.92153788;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:normal"
+       d="m 21,18 c -0.551251,0.05513 -1,0.446 -1,1 v 1 1 6.550781 C 19.410448,27.209302 18.733029,27 18,27 c -2.216,0 -4,1.784 -4,4 0,2.216 1.784,4 4,4 2.216,0 4,-1.784 4,-4 v -9 l 8,-1 v 5.550781 C 29.410448,26.209302 28.733029,26 28,26 c -2.216,0 -4,1.784 -4,4 0,2.216 1.784,4 4,4 2.216,0 4,-1.784 4,-4 V 20 19 18 c 0,-0.554 -0.448749,-1.055125 -1,-1 z"
+       id="rect818"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="sscccsssscccssssccsss" />
+  </g>
+</svg>

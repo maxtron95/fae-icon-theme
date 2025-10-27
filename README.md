@@ -1,3 +1,5 @@
+Archived: Reworking/updating set into [Pixie](https://github.com/maxtron95/pixie-icon-theme)
+
 # fae-icon-theme
 <p align="center">Faenza based icon theme.</p>
 
